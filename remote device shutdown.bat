@@ -1,6 +1,6 @@
 TITLE Shutdown a Remote Computer
 @ECHO Off
-REM created by Brad Arrowood
+REM created by reurbo
 :start
 set pcname=
 cls
